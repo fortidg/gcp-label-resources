@@ -71,7 +71,7 @@ Use this procedure to add the required label to any disk you want to preserve.
 1. In the "Value" box enter **true**
 1. Scroll to the bottom of the page and click **Save**
 
-    1[label disk](./img/label_disk.png)
+    ![label disk](./img/label_disk.png)
 
 1. You should now see the label on the disk
 
